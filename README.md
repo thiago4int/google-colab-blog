@@ -24,19 +24,19 @@ Navegue pela complexa jornada de atribuição com a elegância de um narrador, o
 2. Clique no link para ser teletransportado ao artigo relevante.
 3. Acesse o portal (link do Google Colab) no artigo para começar sua aventura.
 
-## Contribuições Místicas 🌟
+## Contribuições São Bem-Vindas 🤝
 
-Se você tem segredos de código ou encantamentos de dados para compartilhar, nosso grimório está sempre aberto para novas magias. Envie sua contribuição via pull request ou abra uma issue para discutirmos suas ideias.
+Se você acha que seu código é ruim, você vai se sentir em casa aqui. Só aceitamos contribuições que sigam o péssimo padrão de qualidade ao qual nos orgulhosamente mantemos. Envie sua contribuição via pull request ou abra uma issue para podermos apreciar juntos quão baixo podemos ir.
 
-## Mantenha-se Conectado com o Feiticeiro 🧙‍♂️
+## Mantenha-se Conectado 🌐
 
-Para mais feitiçaria de dados, visões proféticas de análise e encantamentos de código, junte-se a nós em [DataStopShop.com](https://datastopshop.com/). Aqui, cada análise é uma aventura, cada dado um tesouro a ser descoberto.
+Para mais desventuras em ciência de dados e insights questionáveis, não deixe de nos visitar em [DataStopShop.com](https://datastopshop.com/). Aqui, tratamos cada análise de dados não como uma busca pelo tesouro, mas como uma chance de se perder maravilhosamente no mar de informações.
 
 ## Licença 📄
 
 Este trabalho está licenciado sob a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
----
+- - -
 
 🥺 E, por favor, se tiver um momento, considere visitar [R-Nimbus](https://github.com/thiago4int/r-minimal-2.0), meu repositório de containers minimalistas de R. Seu apoio significa o mundo para pequenos projetos como este, ajudando-os a crescer e florescer no vasto jardim do código aberto.
 
