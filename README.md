@@ -32,7 +32,12 @@ Se você tem segredos de código ou encantamentos de dados para compartilhar, no
 
 Para mais feitiçaria de dados, visões proféticas de análise e encantamentos de código, junte-se a nós em [DataStopShop.com](https://datastopshop.com/). Aqui, cada análise é uma aventura, cada dado um tesouro a ser descoberto.
 
+## Licença 📄
+
+Este trabalho está licenciado sob a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
 ---
 
-Feito com um misto de sarcasmo, uma pitada de irreverência, e zero respeito pela quarta parede, por [Seu Nome/Equipe] no DataStopShop.com, desmistificando a ciência de dados, um post de blog por vez.
+🥺 E, por favor, se tiver um momento, considere visitar [R-Nimbus](https://github.com/thiago4int/r-minimal-2.0), meu repositório de containers minimalistas de R. Seu apoio significa o mundo para pequenos projetos como este, ajudando-os a crescer e florescer no vasto jardim do código aberto.
+
 
